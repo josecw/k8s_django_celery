@@ -1,0 +1,8 @@
+celery
+Django
+django-health-check
+django-redis
+flower
+kombu
+psycopg2-binary
+redis
